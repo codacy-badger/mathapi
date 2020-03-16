@@ -1,0 +1,2 @@
+# mathapi
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/edbfa2a394e04ab9932f7e6f5dc6e1cf)](https://app.codacy.com/manual/Retrooper/mathapi?utm_source=github.com&utm_medium=referral&utm_content=Retrooper/mathapi&utm_campaign=Badge_Grade_Dashboard)
