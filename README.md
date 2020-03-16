@@ -1,2 +1,2 @@
 # mathapi
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/edbfa2a394e04ab9932f7e6f5dc6e1cf)](https://app.codacy.com/manual/Retrooper/mathapi?utm_source=github.com&utm_medium=referral&utm_content=Retrooper/mathapi&utm_campaign=Badge_Grade_Dashboard)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/d287d75f2bfb44d88ea78a4239b3395d)](https://www.codacy.com/manual/Retrooper/mathapi?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Retrooper/mathapi&amp;utm_campaign=Badge_Grade)
